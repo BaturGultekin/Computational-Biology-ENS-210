@@ -1,0 +1,13 @@
+# *
+!.gitignore
+# !/**/**/README.md
+.vscode
+other_resources
+**/key.sh
+**/*.gtf
+ens210f2017syl.pdf
+**/.DS_Store
+**/Lab
+syllabus.pdf
+test
+# !/2018 Fall/Week_1/Lab
