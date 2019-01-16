@@ -1,0 +1,61 @@
+A0A034WR36:Bactrocera dorsalis (Oriental fruit fly)
+A0A068WAV1:Echinococcus granulosus (Hydatid tapeworm)
+P55327:Homo sapiens (Human)
+Q62393:Mus musculus (Mouse)
+Q95212:Oryctolagus cuniculus (Rabbit)
+A0A087QNX7:Aptenodytes forsteri (Emperor penguin)
+A0A087TJL8:Stegodyphus mimosarum
+A0A087V430:Balearica regulorum gibbericeps (East African grey crowned-crane)
+A0A091DA82:Fukomys damarensis (Damaraland mole rat)
+A0A091F2K5:Corvus brachyrhynchos (American crow)
+A0A091GAH0:Cuculus canorus (common cuckoo)
+A0A091H6R2:Buceros rhinoceros silvestris
+A0A091HZK6:Calypte anna (Anna's hummingbird)
+A0A091IVI5:Egretta garzetta (Little egret)
+A0A091KAV2:Colius striatus (Speckled mousebird)
+A0A091KE44:Chlamydotis macqueenii (Macqueen's bustard)
+A0A091M618:Cariama cristata (Red-legged seriema)
+A0A091N6T2:Apaloderma vittatum (Bar-tailed trogon)
+A0A091P135:Acanthisitta chloris (rifleman)
+A0A091P201:Haliaeetus albicilla (White-tailed sea-eagle)
+A0A091Q2X1:Leptosomus discolor (Madagascar cuckoo roller)
+A0A091R862:Merops nubicus (Northern carmine bee-eater)
+A0A091RNK3:Mesitornis unicolor (brown roatelo)
+A0A091TTN1:Pelecanus crispus (Dalmatian pelican)
+A0A091U310:Phoenicopterus ruber ruber
+A0A091WLX5:Opisthocomus hoazin (Hoatzin)
+A0A091WTF4:Nipponia nippon (Crested ibis)
+A0A093C6U8:Pterocles gutturalis (yellow-throated sandgrouse)
+A0A093CA36:Tauraco erythrolophus (Red-crested turaco)
+A0A093EQP9:Gavia stellata (Red-throated diver)
+A0A093GWA8:Dryobates pubescens (Downy woodpecker)
+A0A093HFC3:Tyto alba (Barn owl)
+A0A093KFC3:Struthio camelus australis
+A0A093NFT6:Pygoscelis adeliae (Adelie penguin)
+A0A093PPE3:Manacus vitellinus (golden-collared manakin)
+A0A093QR10:Phalacrocorax carbo (Great cormorant)
+A0A094KUD1:Antrostomus carolinensis (Chuck-will's-widow)
+A0A099YW99:Tinamus guttatus (White-throated tinamou)
+A0A0A0AW68:Charadrius vociferus (Killdeer)
+A0A0B8RWK3:Boiga irregularis (Brown tree snake)
+A0A0G2K865:Rattus norvegicus (Rat)
+A0A0R4IDA7:Danio rerio (Zebrafish)
+A0A146TRV9:Fundulus heteroclitus (Killifish)
+A0A1A7YS91:Iconisemion striatum
+A0A1A7ZQF8:Nothobranchius furzeri (Turquoise killifish)
+A0A1A8B4X2:Nothobranchius furzeri (Turquoise killifish)
+A0A1A8BW85:Nothobranchius kadleci
+A0A1A8C2A1:Nothobranchius kadleci
+A0A1A8D9P7:Nothobranchius kadleci
+A0A1A8EIJ4:Nothobranchius korthausae
+A0A1A8FJ62:Nothobranchius korthausae
+A0A1A8IGP2:Nothobranchius kuhntae (Beira killifish)
+A0A1A8JBP9:Nothobranchius kuhntae (Beira killifish)
+A0A1A8LE78:Nothobranchius pienaari
+A0A1A8MKV3:Nothobranchius pienaari
+A0A1A8LYV7:Nothobranchius pienaari
+A0A1A8ND60:Nothobranchius rachovii (bluefin notho)
+A0A1A8SM06:Nothobranchius rachovii (bluefin notho)
+A0A1A8UT65:Nothobranchius furzeri (Turquoise killifish)
+A0A091WLX5:Opisthocomus hoazin (Hoatzin)
+A0A218V223:Lonchura striata domestica (Bengalese finch)
