@@ -8,7 +8,7 @@ This is a repository for `FALL Term 2018-19 - ENS210 Computational Biology`.
 
 **ID:** 24188
 
-**E-mail:** baturgultekin@sabanciuniv.edu , Batur.Gultekin@akbank.com,  gultekinbatur98@gmail.com
+**E-mail:** baturgultekin@sabanciuniv.edu , gultekinbatur98@gmail.com
 __________
 
 ## Group Project Description (What to do?)
